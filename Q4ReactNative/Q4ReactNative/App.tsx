@@ -11,5 +11,6 @@ export default App = () => {
         <Square key = {item} text={`Square ${index +1}`}/>
       ))}
     </ScrollView>
+    //comment
   );
 };
